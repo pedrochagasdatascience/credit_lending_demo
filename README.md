@@ -47,5 +47,3 @@ jupyter notebook
 Abra o notebook principal e siga as instruções para a modelagem de crédito.
 
 ---
-
-Isso completa o README para o seu projeto.
